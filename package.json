@@ -8,6 +8,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "engines" : { 
+    "npm" : "9.6.7",
+    "node" : "18.17.0"
+  },
   "dependencies": {
     "@prisma/client": "^5.12.1",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
